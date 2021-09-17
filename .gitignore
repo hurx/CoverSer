@@ -1,0 +1,10 @@
+conf/conf.yaml
+*.log
+*.swp
+pkg
+log/*
+CoverSer
+*.info
+DoTask/DoTask
+bin/*
+nohup.out
